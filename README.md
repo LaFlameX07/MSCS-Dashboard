@@ -9,7 +9,25 @@ The visualizations that I've used are as follows:
 5. A line chart that shows the no. of registrations made by the societies according to different times. One can also look at different time frames by clicking and dragging the cursor according to your needs to zoom and see at which dates societies got registered. 
 6. A horizontal bar chart that shows top 10 districts in the country ordered by count of societies in descending. Also it can be zoomed according to user's needs.
 7. A stacked bar chart that shows distribution of societies and their respective types plotted by states. One can see the count of societies in each sector distinctively in states.
-8. A scatter plot that displays the count of societies on y axis and states/districts on x axis with the circles colored according to dominant sector type in each state/district. The user have option to choose between state or district. When hovered upon the circles one can see total count of societies, the most dominant sector in each state/district and how much percent do those sector type represent. 
+8. A scatter plot that displays the count of societies on y axis and states/districts on x axis with the circles colored according to dominant sector type in each state/district. The user have option to choose between state or district. When hovered upon the circles one can see total count of societies, the most dominant sector in each state/district and how much percent do those sector type represent.
+
+## So the Plots I achieved are as followed:
+### (Excerpts from the webpage)
+<p align="center">
+  <img src="/images/Screenshot (14).png" title="Image 1">
+</p>
+<p align="center">
+  <img src="/images/Screenshot (15).png" title="Image 2">
+</p>
+<p align="center">
+  <img src="/images/Screenshot (16).png" title="Image 3">
+</p>
+<p align="center">
+  <img src="/images/Screenshot (17).png" title="Image 4">
+</p>
+<p align="center">
+  <img src="/images/Screenshot (18).png" title="Image 5">
+</p>
 
 ### Tech Stack
 - Flask: Serves as the lightweight and flexible backend framework for handling requests and serving HTML pages.
