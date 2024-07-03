@@ -11,6 +11,14 @@ The visualizations that I've used are as follows:
 7. A stacked bar chart that shows distribution of societies and their respective types plotted by states. One can see the count of societies in each sector distinctively in states.
 8. A scatter plot that displays the count of societies on y axis and states/districts on x axis with the circles colored according to dominant sector type in each state/district. The user have option to choose between state or district. When hovered upon the circles one can see total count of societies, the most dominant sector in each state/district and how much percent do those sector type represent. 
 
+### Tech Stack
+- Flask: Serves as the lightweight and flexible backend framework for handling requests and serving HTML pages.
+- TensorFlow/Keras: Utilized for building and training neural network models with high-level APIs.
+- Python: The main programming language for developing backend and machine learning components, known for its simplicity and extensive libraries.
+- SQL: Manages and queries the database, essential for handling structured data and performing efficient data operations.
+- HTML/CSS: Structures and styles the web pages, with HTML providing the structure and CSS creating an interactive and aesthetically pleasing user interface.
+- JavaScript: Adds interactivity to the web pages, crucial for creating dynamic and responsive web applications.
+
 I made my Dashboard in Python and used several libraries to create it. There is single piece of code and there is no need of images or files to be downloaded all it requires is stable internet connection to run.
 
 
